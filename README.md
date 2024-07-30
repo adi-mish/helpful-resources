@@ -2,7 +2,7 @@
 
 A small collection of stuff I found helpful :)
 
-- [CPU Memory Consistency](https://www.akkadia.org/drepper/cpumemory.pdf)
+- [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 - [Getting Started with Ansible](https://www.redhat.com/en/blog/system-administrators-guide-getting-started-ansible-fast?scid=701f2000000tnTlAAI)
 - [How do I learn to be a Linux Sysadmin?](https://www.reddit.com/r/linuxadmin/comments/tvjegv/how_do_i_learn_to_be_a_linux_sysadmin/)
 - [OS Development](https://wiki.osdev.org/Expanded_Main_Page)
